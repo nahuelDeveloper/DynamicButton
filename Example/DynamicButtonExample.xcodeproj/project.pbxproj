@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5749DCD121811A3B008E5239 /* DynamicButtonStyleLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5749DCD021811A3B008E5239 /* DynamicButtonStyleLocation.swift */; };
+		5749DCD221811A3B008E5239 /* DynamicButtonStyleLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5749DCD021811A3B008E5239 /* DynamicButtonStyleLocation.swift */; };
+		5749DCD321811A3B008E5239 /* DynamicButtonStyleLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5749DCD021811A3B008E5239 /* DynamicButtonStyleLocation.swift */; };
+		5749DCD421811A3B008E5239 /* DynamicButtonStyleLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5749DCD021811A3B008E5239 /* DynamicButtonStyleLocation.swift */; };
+		5749DCD521811A3B008E5239 /* DynamicButtonStyleLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5749DCD021811A3B008E5239 /* DynamicButtonStyleLocation.swift */; };
 		CE02279F1DCF485E004868B0 /* DynamicButtonBuildableStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE02279E1DCF485E004868B0 /* DynamicButtonBuildableStyle.swift */; };
 		CE0227A01DCF485E004868B0 /* DynamicButtonBuildableStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE02279E1DCF485E004868B0 /* DynamicButtonBuildableStyle.swift */; };
 		CE0227A11DCF485E004868B0 /* DynamicButtonBuildableStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE02279E1DCF485E004868B0 /* DynamicButtonBuildableStyle.swift */; };
@@ -227,6 +232,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5749DCD021811A3B008E5239 /* DynamicButtonStyleLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DynamicButtonStyleLocation.swift; sourceTree = "<group>"; };
 		CE02279E1DCF485E004868B0 /* DynamicButtonBuildableStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DynamicButtonBuildableStyle.swift; sourceTree = "<group>"; };
 		CE0227A41DCF51DF004868B0 /* DynamicButtonPathVector.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DynamicButtonPathVector.swift; sourceTree = "<group>"; };
 		CE25B6951DCDFAE70089C050 /* DynamicButtonStyleVerticalMoreOptions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DynamicButtonStyleVerticalMoreOptions.swift; sourceTree = "<group>"; };
@@ -360,6 +366,7 @@
 		CE5057251D8942DF00298525 /* DynamicButtonStyles */ = {
 			isa = PBXGroup;
 			children = (
+				5749DCD021811A3B008E5239 /* DynamicButtonStyleLocation.swift */,
 				CE5057261D8942DF00298525 /* DynamicButtonStyleArrowDown.swift */,
 				CE5057271D8942DF00298525 /* DynamicButtonStyleArrowLeft.swift */,
 				CE5057281D8942DF00298525 /* DynamicButtonStyleArrowRight.swift */,
@@ -584,16 +591,16 @@
 				TargetAttributes = {
 					CE4C6FDD1BC572CA00855274 = {
 						CreatedOnToolsVersion = 7.0.1;
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 1000;
 					};
 					CE4C6FF01BC58FF300855274 = {
 						CreatedOnToolsVersion = 7.0.1;
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 1000;
 						TestTargetID = CE7747061B9CD4E5001FF79E;
 					};
 					CE7747061B9CD4E5001FF79E = {
 						CreatedOnToolsVersion = 6.4;
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 1000;
 					};
 					CE77471B1B9CD4E5001FF79E = {
 						CreatedOnToolsVersion = 6.4;
@@ -683,6 +690,7 @@
 				CE50579B1D89478800298525 /* DynamicButtonStyleCaretUp.swift in Sources */,
 				CE5057A21D89478800298525 /* DynamicButtonStyleFastForward.swift in Sources */,
 				CE0227A81DCF51DF004868B0 /* DynamicButtonPathVector.swift in Sources */,
+				5749DCD421811A3B008E5239 /* DynamicButtonStyleLocation.swift in Sources */,
 				CE50579A1D89478800298525 /* DynamicButtonStyleCaretRight.swift in Sources */,
 				CE5057A71D89478800298525 /* DynamicButtonStylePlay.swift in Sources */,
 				CE5057AD1D89478800298525 /* DynamicButton.swift in Sources */,
@@ -733,6 +741,7 @@
 				CE5057921D89478800298525 /* DynamicButtonStyle.swift in Sources */,
 				CE4C6FF41BC58FF300855274 /* DynamicButtonExampleUITests.swift in Sources */,
 				CE5057791D89478800298525 /* DynamicButtonStyleArrowLeft.swift in Sources */,
+				5749DCD321811A3B008E5239 /* DynamicButtonStyleLocation.swift in Sources */,
 				CE50578A1D89478800298525 /* DynamicButtonStylePause.swift in Sources */,
 				CE50577F1D89478800298525 /* DynamicButtonStyleCaretUp.swift in Sources */,
 				CE5057861D89478800298525 /* DynamicButtonStyleFastForward.swift in Sources */,
@@ -780,6 +789,7 @@
 				CE5057551D8942DF00298525 /* DynamicButtonStylePlay.swift in Sources */,
 				CE5057491D8942DF00298525 /* DynamicButtonStyleCaretUp.swift in Sources */,
 				CE0227A51DCF51DF004868B0 /* DynamicButtonPathVector.swift in Sources */,
+				5749DCD121811A3B008E5239 /* DynamicButtonStyleLocation.swift in Sources */,
 				CE5057521D8942DF00298525 /* DynamicButtonStyleHorizontalLine.swift in Sources */,
 				CE5057511D8942DF00298525 /* DynamicButtonStyleHamburger.swift in Sources */,
 				CE50574B1D8942DF00298525 /* DynamicButtonStyleCircleClose.swift in Sources */,
@@ -797,6 +807,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE5057651D89478800298525 /* DynamicButtonStyleCircleClose.swift in Sources */,
+				5749DCD221811A3B008E5239 /* DynamicButtonStyleLocation.swift in Sources */,
 				CE5057731D89478800298525 /* DynamicButtonStyleStop.swift in Sources */,
 				CE5057611D89478800298525 /* DynamicButtonStyleCaretLeft.swift in Sources */,
 				CE25B69D1DCE16C60089C050 /* DynamicButtonStyleHorizontalMoreOptions.swift in Sources */,
@@ -864,6 +875,7 @@
 				CE599CDB1BE555410030558A /* DynamicButtonCellView.swift in Sources */,
 				CE0227A91DCF51DF004868B0 /* DynamicButtonPathVector.swift in Sources */,
 				CEE156E81E9102090062FC3E /* MyCustomLine.swift in Sources */,
+				5749DCD521811A3B008E5239 /* DynamicButtonStyleLocation.swift in Sources */,
 				CE5057BF1D89478900298525 /* DynamicButtonStyleHamburger.swift in Sources */,
 				CE5057B21D89478900298525 /* DynamicButtonStyleArrowRight.swift in Sources */,
 				CE5057C71D89478900298525 /* DynamicButtonStyleStop.swift in Sources */,
@@ -941,6 +953,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.yannickloriot.DynamicButton;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -962,6 +975,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.yannickloriot.DynamicButton;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -978,6 +992,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yannickloriot.DynamicButtonExampleUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
 				TEST_TARGET_NAME = DynamicButtonExample;
 				USES_XCTRUNNER = YES;
 			};
@@ -993,6 +1008,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yannickloriot.DynamicButtonExampleUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
 				TEST_TARGET_NAME = DynamicButtonExample;
 				USES_XCTRUNNER = YES;
 			};
@@ -1050,7 +1066,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -1099,7 +1115,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -1111,9 +1127,11 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = DynamicButtonExample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yannickloriot.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -1123,9 +1141,11 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = DynamicButtonExample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yannickloriot.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
